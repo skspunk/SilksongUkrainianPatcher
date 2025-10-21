@@ -129,5 +129,15 @@
       "Незначні виправлення в діалогах Shakra та Fleamaster Mooshka",
       "Виправлення діалогів Sprintmaster Swift"
     ]
+  },
+  {
+    "patchVersion": "1.0.2",
+    "patcherVersion": "2.0.0",
+    "gameVersion": "1.0.28891",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2025-10-21",
+    "changelog": [
+      "Незначні виправлення в діалогах Creige та Nuu"
+    ]
   }
 ]
