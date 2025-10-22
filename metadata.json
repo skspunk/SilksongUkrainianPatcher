@@ -139,5 +139,16 @@
     "changelog": [
       "Незначні виправлення в діалогах Creige та Nuu"
     ]
+  },
+  {
+    "patchVersion": "1.0.3",
+    "patcherVersion": "2.0.0",
+    "gameVersion": "1.0.28891",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2025-10-22",
+    "changelog": [
+      "Незначні виправлення в діалогах Creige та Nuu",
+      "Виправлення в UI"
+    ]
   }
 ]
