@@ -182,5 +182,15 @@
       "Незначні виправлення в діалогах Lace, Pilby, Pavo, Sherma",
       "Незначні виправлення форматування тексту"
     ]
+  },
+  {
+    "patchVersion": "1.1.2",
+    "patcherVersion": "2.0.0",
+    "gameVersion": "1.0.28891",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2025-11-08",
+    "changelog": [
+      "Узгодження перекладу з виправленнями від Team Cherry"
+    ]
   }
 ]
