@@ -192,5 +192,16 @@
     "changelog": [
       "Узгодження перекладу з виправленнями від Team Cherry"
     ]
+  },
+  {
+    "patchVersion": "1.1.3",
+    "patcherVersion": "2.0.0",
+    "gameVersion": "1.0.29242",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2025-11-12",
+    "changelog": [
+      "Незначні виправлення в діалогах",
+      "Узгодження перекладу головного меню зі змінами від Team Cherry"
+    ]
   }
 ]
