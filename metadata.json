@@ -203,5 +203,16 @@
       "Незначні виправлення в діалогах",
       "Узгодження перекладу головного меню зі змінами від Team Cherry"
     ]
+  },
+  {
+    "patchVersion": "1.1.4",
+    "patcherVersion": "2.1.0",
+    "gameVersion": "1.0.29315",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2025-11-29",
+    "changelog": [
+      "Виправлення в діалогах (Vaultkeeper Cardinius, Caretaker, Jubilana та інші)",
+      "Виправлення в текстах (інвентар та квести)"
+    ]
   }
 ]
