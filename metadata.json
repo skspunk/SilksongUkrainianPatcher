@@ -214,5 +214,15 @@
       "Виправлення в діалогах (Vaultkeeper Cardinius, Caretaker, Jubilana та інші)",
       "Виправлення в текстах (інвентар та квести)"
     ]
+  },
+  {
+    "patchVersion": "1.1.5",
+    "patcherVersion": "2.1.0",
+    "gameVersion": "1.0.29315",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2025-12-07",
+    "changelog": [
+      "Незначні виправлення в діалогах і текстах"
+    ]
   }
 ]
