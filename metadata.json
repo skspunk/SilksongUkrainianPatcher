@@ -224,5 +224,15 @@
     "changelog": [
       "Незначні виправлення в діалогах і текстах"
     ]
+  },
+  {
+    "patchVersion": "1.1.6",
+    "patcherVersion": "2.1.0",
+    "gameVersion": "1.0.29315",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2025-12-14",
+    "changelog": [
+      "Виправлення в діалогах і текстах"
+    ]
   }
 ]
