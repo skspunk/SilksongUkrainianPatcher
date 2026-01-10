@@ -255,5 +255,16 @@
     "changelog": [
       "Переробка пісень Needolin (~68% завершено)"
     ]
+  },
+  {
+    "patchVersion": "1.2.0",
+    "patcherVersion": "2.1.0",
+    "gameVersion": "1.0.29315",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2026-01-10",
+    "changelog": [
+      "Пісні Needolin повністю перероблені",
+      "Незначні виправлення в діалогах і текстах"
+    ]
   }
 ]
