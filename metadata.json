@@ -266,5 +266,15 @@
       "Пісні Needolin повністю перероблені",
       "Незначні виправлення в діалогах і текстах"
     ]
+  },
+  {
+    "patchVersion": "1.2.1",
+    "patcherVersion": "2.1.0",
+    "gameVersion": "1.0.29315",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2026-01-24",
+    "changelog": [
+      "Виправлення в діалогах (Mask Maker, Snail Shamans та інші)"
+    ]
   }
 ]
