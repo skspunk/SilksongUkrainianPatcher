@@ -276,5 +276,15 @@
     "changelog": [
       "Виправлення в діалогах (Mask Maker, Snail Shamans та інші)"
     ]
+  },
+  {
+    "patchVersion": "1.2.2",
+    "patcherVersion": "2.1.0",
+    "gameVersion": "1.0.29315",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2026-02-01",
+    "changelog": [
+      "Виправлення в діалогах і текстах"
+    ]
   }
 ]
