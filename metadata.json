@@ -286,5 +286,15 @@
     "changelog": [
       "Виправлення в діалогах і текстах"
     ]
+  },
+  {
+    "patchVersion": "1.2.3",
+    "patcherVersion": "2.1.0",
+    "gameVersion": "1.0.29315",
+    "unityVersion": "6000.0.50f1",
+    "releaseDate": "2026-02-15",
+    "changelog": [
+      "Незначні виправлення в діалогах і текстах"
+    ]
   }
 ]
